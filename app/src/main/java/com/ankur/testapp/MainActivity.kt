@@ -33,6 +33,9 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
+// hello  new fun should be added  here
+
+fun add(){}
 
 @PreviewScreenSizes
 @Composable
