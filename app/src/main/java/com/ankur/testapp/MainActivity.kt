@@ -34,6 +34,8 @@ class MainActivity : ComponentActivity() {
     }
 }
 
+fun two(){}
+
 @PreviewScreenSizes
 @Composable
 fun TestappApp() {
